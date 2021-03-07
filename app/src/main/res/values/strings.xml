@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Calculadora IMC</string>
+    <string name="titulo">Título</string>
+    <string name="subtitulo">Subtítulo</string>
+    <string name="radiobutton">Radio Button</string>
+    <string name="checkbutton">Check Button</string>
 </resources>
