@@ -1,7 +1,9 @@
 <resources>
     <string name="app_name">Calculadora IMC</string>
-    <string name="titulo">Título</string>
-    <string name="subtitulo">Subtítulo</string>
-    <string name="radiobutton">Radio Button</string>
+    <string name="titulo">Calculadora IMC</string>
+    <string name="subtitulo">Descubra seu Índice de Massa Corporal!</string>
+    <string name="calcularBTN">calcular</string>
     <string name="checkbutton">Check Button</string>
+    <string name="hintPeso">Peso (ex.: 54.5 kg)</string>
+    <string name="hintAltura">Altura (ex.: 1.68 m)</string>
 </resources>
